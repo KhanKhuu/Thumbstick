@@ -9,5 +9,4 @@ Use the protocol MyThumbstickDelegate to create any functions you want to delega
 Modify the design to fit your project. Thumbstick position on-screen can be changed just by moving knobView in ViewController. The circle outline should follow.
 
 Use it however you want, just credit me and keep it libre.
-
 Enjoy!
